@@ -2,7 +2,7 @@ use anchor_lang::prelude::*;
 use anchor_lang::solana_program::entrypoint::ProgramResult;
 use std::str::from_utf8;
 
-declare_id!("GFAc6E2LVWue2bqoJZfFCofP9vwVfyGXsnTvD7ojPbBc");
+declare_id!("AAZ9zZG8mgKmWzPoNybi7FvDAuDDDVusc4UzV4w8Mdjz");
 
 #[program]
 pub mod russian {
